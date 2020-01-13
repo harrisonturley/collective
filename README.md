@@ -21,4 +21,4 @@ Frontend: Vue
 Backend: Node, Express, MongoDB, all hosted on an Azure Linux Virtual Machine instance.  
 Services: Stripe, Pusher  
 
-<img src="img/Submission1.PNG" width="250"> <img src="img/Submission4.PNG" width="250"> <img src="img/Submission7.PNG" width="250"> <img src="img/Submission8.PNG" width="250">
+<img src="img/Submission1.PNG" width="400"> <img src="img/Submission4.PNG" width="400"> <img src="img/Submission7.PNG" width="400"> <img src="img/Submission8.PNG" width="400">
