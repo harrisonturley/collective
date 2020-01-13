@@ -17,6 +17,8 @@ Our team has competed in several hackathons now. Since this isn't our first time
 Two of our team of three had never used Vue before, so it was an interesting framework to learn. As well, we learned how to manage our time and plan early, which saved us from having to scramble at the end.
 
 ## Built with
-Frontend: Vue
-Backend: Node, Express, MongoDB, all hosted on an Azure Linux Virtual Machine instance.
-Services: Stripe, Pusher
+Frontend: Vue  
+Backend: Node, Express, MongoDB, all hosted on an Azure Linux Virtual Machine instance.  
+Services: Stripe, Pusher  
+
+<img src="img/Submission1.PNG" width="250"> <img src="img/Submission4.PNG" width="250"> <img src="img/Submission7.PNG" width="250"> <img src="img/Submission8.PNG" width="250">
